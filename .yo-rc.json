@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "sampleCouchbase",
+    "packageName": "com.tk",
+    "packageFolder": "com/tk",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "couchbase",
+    "devDatabaseType": "couchbase",
+    "prodDatabaseType": "couchbase",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "ODliNDMzZDE0Y2MyNThmMTc1OTNlZjVkNDNiOWUxM2Q4MDBmZjVmYjIyZWU3ZjNmZGI2M2RhZThkZmE0N2Q4ZmM5MmJmYTIwNDVlMzk0MTk3MzAwMDUzNTFlZjc3MGUzMTE3N2NiMDAyZmI5ZGIzNzcwZjdmYzI2NDVmZjYwMGE=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "a-baki",
+  "repository-name": "sample-Couchbase"
+}
